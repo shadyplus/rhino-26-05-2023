@@ -450,7 +450,9 @@
     
         img.photo-people {
             width: 75px;
-            border-radius: 50px
+            border-radius: 50px;
+            height: 68px;
+
         }
 
         .photo {
